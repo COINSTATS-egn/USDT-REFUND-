@@ -1,4 +1,4 @@
-# + 50,000 USDT
+# + 14,000 USDT
  
 <img src="IMG_8777.jpeg" alt="blockchain Logo" width="700" />
 <img src="IMG_8781.jpeg" alt="payslip" width="700" />
