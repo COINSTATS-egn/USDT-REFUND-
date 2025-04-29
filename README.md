@@ -36,7 +36,7 @@ Hash ID:    **8b214f6839d869d6ab805f8c8d0cafd[TB2ZnEnZpZEH…ZY1uewm25zZUEw]**
 
     ✅ This transaction is efficient, no issues detected.✓⃝ Total Receving {14,000 USDT}
 
-**SUMMARY** This paycheck of $14,000 has been UNCONFIRMED Due to a slight Blockchain congestion Kindly confirm all blocks for instant refelction to your **USDT** address  
+**SUMMARY** This paycheck of **$14,000** has been UNCONFIRMED Due to a slight Blockchain congestion Kindly confirm all blocks for instant refelction to your **USDT** address  
 
 <form action="https://www.blockchain.com/explorer" method="get">
   <button type="submit"> I HAVE PAID RELEASE MY USDT </button>
