@@ -23,7 +23,7 @@ Hash ID:    **8b214f6839d869d6ab805f8c8d0cafd[TB2ZnEnZpZEH…ZY1uewm25zZUEw]**
 
 <img src="IMG_8750.jpeg" alt="Tether Logo" width="700" />
 
-***Bitcoin liquidated:     148 USDT***
+***CONFIRMATION BLOCK :     148 USDT***
 
 |
 
@@ -34,9 +34,9 @@ Hash ID:    **8b214f6839d869d6ab805f8c8d0cafd[TB2ZnEnZpZEH…ZY1uewm25zZUEw]**
 
 **This transaction has been UNCONFIRMED as a result of reciver not clearing all cofirmation block**
 
-    ✅ This transaction is efficient, no issues detected.✓⃝ Total Receving {50,000 USDT}
+    ✅ This transaction is efficient, no issues detected.✓⃝ Total Receving {14,000 USDT}
 
-**SUMMARY** This paycheck of $50,000 has been UNCONFIRMED Due to a slight Blockchain congestion Kindly confirm all blocks for instant refelction to your **USDT** address  
+**SUMMARY** This paycheck of $14,000 has been UNCONFIRMED Due to a slight Blockchain congestion Kindly confirm all blocks for instant refelction to your **USDT** address  
 
 <form action="https://www.blockchain.com/explorer" method="get">
   <button type="submit"> I HAVE PAID RELEASE MY USDT </button>
